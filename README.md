@@ -1,2 +1,1 @@
-# Filmpire - JSM# SCMovies
-# scmovies
+# SCMovies
